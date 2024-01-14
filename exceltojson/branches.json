@@ -1,0 +1,377 @@
+[
+  {
+      "Branch ID": "CH101",
+      "Branch Name": "CH1",
+      "City ID": "101"
+  },
+  {
+      "Branch ID": "CH102",
+      "Branch Name": "CH2",
+      "City ID": "101"
+  },
+  {
+      "Branch ID": "CH103",
+      "Branch Name": "CH3",
+      "City ID": "101"
+  },
+  {
+      "Branch ID": "CH104",
+      "Branch Name": "CH4",
+      "City ID": "101"
+  },
+  {
+      "Branch ID": "CH105",
+      "Branch Name": "CH5",
+      "City ID": "101"
+  },
+  {
+      "Branch ID": "C101",
+      "Branch Name": "C1",
+      "City ID": "102"
+  },
+  {
+      "Branch ID": "C102",
+      "Branch Name": "C2",
+      "City ID": "102"
+  },
+  {
+      "Branch ID": "C103",
+      "Branch Name": "C3",
+      "City ID": "102"
+  },
+  {
+      "Branch ID": "C104",
+      "Branch Name": "C4",
+      "City ID": "102"
+  },
+  {
+      "Branch ID": "C105",
+      "Branch Name": "C5",
+      "City ID": "102"
+  },
+  {
+      "Branch ID": "S101",
+      "Branch Name": "S1",
+      "City ID": "103"
+  },
+  {
+      "Branch ID": "S102",
+      "Branch Name": "S2",
+      "City ID": "103"
+  },
+  {
+      "Branch ID": "S103",
+      "Branch Name": "S3",
+      "City ID": "103"
+  },
+  {
+      "Branch ID": "S104",
+      "Branch Name": "S4",
+      "City ID": "103"
+  },
+  {
+      "Branch ID": "S105",
+      "Branch Name": "S5",
+      "City ID": "103"
+  },
+  {
+      "Branch ID": "M101",
+      "Branch Name": "M1",
+      "City ID": "104"
+  },
+  {
+      "Branch ID": "M102",
+      "Branch Name": "M2",
+      "City ID": "104"
+  },
+  {
+      "Branch ID": "M103",
+      "Branch Name": "M3",
+      "City ID": "104"
+  },
+  {
+      "Branch ID": "M104",
+      "Branch Name": "M4",
+      "City ID": "104"
+  },
+  {
+      "Branch ID": "M105",
+      "Branch Name": "M5",
+      "City ID": "104"
+  },
+  {
+      "Branch ID": "E101",
+      "Branch Name": "E1",
+      "City ID": "105"
+  },
+  {
+      "Branch ID": "E102",
+      "Branch Name": "E2",
+      "City ID": "105"
+  },
+  {
+      "Branch ID": "E103",
+      "Branch Name": "E3",
+      "City ID": "105"
+  },
+  {
+      "Branch ID": "E104",
+      "Branch Name": "E4",
+      "City ID": "105"
+  },
+  {
+      "Branch ID": "E105",
+      "Branch Name": "E5",
+      "City ID": "105"
+  },
+  {
+      "Branch ID": "B201",
+      "Branch Name": "B1",
+      "City ID": "201"
+  },
+  {
+      "Branch ID": "B202",
+      "Branch Name": "B2",
+      "City ID": "201"
+  },
+  {
+      "Branch ID": "B203",
+      "Branch Name": "B3",
+      "City ID": "201"
+  },
+  {
+      "Branch ID": "B204",
+      "Branch Name": "B4",
+      "City ID": "201"
+  },
+  {
+      "Branch ID": "B205",
+      "Branch Name": "B5",
+      "City ID": "201"
+  },
+  {
+      "Branch ID": "M201",
+      "Branch Name": "M1",
+      "City ID": "202"
+  },
+  {
+      "Branch ID": "M202",
+      "Branch Name": "M2",
+      "City ID": "202"
+  },
+  {
+      "Branch ID": "M203",
+      "Branch Name": "M3",
+      "City ID": "202"
+  },
+  {
+      "Branch ID": "M204",
+      "Branch Name": "M4",
+      "City ID": "202"
+  },
+  {
+      "Branch ID": "M205",
+      "Branch Name": "M5",
+      "City ID": "202"
+  },
+  {
+      "Branch ID": "MG201",
+      "Branch Name": "MG1",
+      "City ID": "203"
+  },
+  {
+      "Branch ID": "MG202",
+      "Branch Name": "MG2",
+      "City ID": "203"
+  },
+  {
+      "Branch ID": "MG203",
+      "Branch Name": "MG3",
+      "City ID": "203"
+  },
+  {
+      "Branch ID": "MG204",
+      "Branch Name": "MG4",
+      "City ID": "203"
+  },
+  {
+      "Branch ID": "MG205",
+      "Branch Name": "MG5",
+      "City ID": "203"
+  },
+  {
+      "Branch ID": "U201",
+      "Branch Name": "U1",
+      "City ID": "204"
+  },
+  {
+      "Branch ID": "U202",
+      "Branch Name": "U2",
+      "City ID": "204"
+  },
+  {
+      "Branch ID": "U203",
+      "Branch Name": "U3",
+      "City ID": "204"
+  },
+  {
+      "Branch ID": "U204",
+      "Branch Name": "U4",
+      "City ID": "204"
+  },
+  {
+      "Branch ID": "U205",
+      "Branch Name": "U5",
+      "City ID": "204"
+  },
+  {
+      "Branch ID": "MD201",
+      "Branch Name": "MD1",
+      "City ID": "205"
+  },
+  {
+      "Branch ID": "MD202",
+      "Branch Name": "MD2",
+      "City ID": "205"
+  },
+  {
+      "Branch ID": "MD203",
+      "Branch Name": "MD3",
+      "City ID": "205"
+  },
+  {
+      "Branch ID": "MD204",
+      "Branch Name": "MD4",
+      "City ID": "205"
+  },
+  {
+      "Branch ID": "MD205",
+      "Branch Name": "MD5",
+      "City ID": "205"
+  },
+  {
+      "Branch ID": "K301",
+      "Branch Name": "K1",
+      "City ID": "301"
+  },
+  {
+      "Branch ID": "K302",
+      "Branch Name": "K2",
+      "City ID": "301"
+  },
+  {
+      "Branch ID": "K303",
+      "Branch Name": "K3",
+      "City ID": "301"
+  },
+  {
+      "Branch ID": "K304",
+      "Branch Name": "K4",
+      "City ID": "301"
+  },
+  {
+      "Branch ID": "K305",
+      "Branch Name": "K5",
+      "City ID": "301"
+  },
+  {
+      "Branch ID": "KO301",
+      "Branch Name": "KO1",
+      "City ID": "302"
+  },
+  {
+      "Branch ID": "KO302",
+      "Branch Name": "KO2",
+      "City ID": "302"
+  },
+  {
+      "Branch ID": "KO303",
+      "Branch Name": "KO3",
+      "City ID": "302"
+  },
+  {
+      "Branch ID": "KO304",
+      "Branch Name": "KO4",
+      "City ID": "302"
+  },
+  {
+      "Branch ID": "KO305",
+      "Branch Name": "KO5",
+      "City ID": "302"
+  },
+  {
+      "Branch ID": "KN301",
+      "Branch Name": "KN1",
+      "City ID": "303"
+  },
+  {
+      "Branch ID": "KN302",
+      "Branch Name": "KN2",
+      "City ID": "303"
+  },
+  {
+      "Branch ID": "KN303",
+      "Branch Name": "KN3",
+      "City ID": "303"
+  },
+  {
+      "Branch ID": "KN304",
+      "Branch Name": "KN4",
+      "City ID": "303"
+  },
+  {
+      "Branch ID": "KN305",
+      "Branch Name": "KN5",
+      "City ID": "303"
+  },
+  {
+      "Branch ID": "T301",
+      "Branch Name": "T1",
+      "City ID": "304"
+  },
+  {
+      "Branch ID": "T302",
+      "Branch Name": "T2",
+      "City ID": "304"
+  },
+  {
+      "Branch ID": "T303",
+      "Branch Name": "T3",
+      "City ID": "304"
+  },
+  {
+      "Branch ID": "T304",
+      "Branch Name": "T4",
+      "City ID": "304"
+  },
+  {
+      "Branch ID": "T305",
+      "Branch Name": "T5",
+      "City ID": "304"
+  },
+  {
+      "Branch ID": "A301",
+      "Branch Name": "A1",
+      "City ID": "305"
+  },
+  {
+      "Branch ID": "A302",
+      "Branch Name": "A2",
+      "City ID": "305"
+  },
+  {
+      "Branch ID": "A303",
+      "Branch Name": "A3",
+      "City ID": "305"
+  },
+  {
+      "Branch ID": "A304",
+      "Branch Name": "A4",
+      "City ID": "305"
+  },
+  {
+      "Branch ID": "A305",
+      "Branch Name": "A5",
+      "City ID": "305"
+  }
+]

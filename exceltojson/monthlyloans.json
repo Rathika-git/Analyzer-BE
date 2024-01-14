@@ -1,0 +1,14 @@
+[
+    {"Month": "Jan", "Loans": 500000},
+    {"Month": "Feb", "Loans": 1500000},
+    {"Month": "Mar", "Loans": 2000000},
+    {"Month": "Apr", "Loans": 1000000},
+    {"Month": "May", "Loans": 1300000},
+    {"Month": "Jun", "Loans": 2000000},
+    {"Month": "Jul", "Loans": 1800000},
+    {"Month": "Aug", "Loans": 800000},
+    {"Month": "Sep", "Loans": 500000},
+    {"Month": "Oct", "Loans": 600000},
+    {"Month": "Nov", "Loans": 2000000},
+    {"Month": "Dec", "Loans": 1000000}
+  ]

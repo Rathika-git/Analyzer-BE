@@ -1,0 +1,93 @@
+[
+  {
+      "City ID": "101",
+      "City Name": "Chennai",
+      "State ID": "1",
+      "State Name": "TamilNadu"
+  },
+  {
+      "City ID": "102",
+      "City Name": "Coimbatore",
+      "State ID": "1",
+      "State Name": "TamilNadu"
+  },
+  {
+      "City ID": "103",
+      "City Name": "Salem",
+      "State ID": "1",
+      "State Name": "TamilNadu"
+  },
+  {
+      "City ID": "104",
+      "City Name": "Madurai",
+      "State ID": "1",
+      "State Name": "TamilNadu"
+  },
+  {
+      "City ID": "105",
+      "City Name": "Erode",
+      "State ID": "1",
+      "State Name": "TamilNadu"
+  },
+  {
+      "City ID": "201",
+      "City Name": "Bangalore",
+      "State ID": "2",
+      "State Name": "Karnataka"
+  },
+  {
+      "City ID": "202",
+      "City Name": "Mysore",
+      "State ID": "2",
+      "State Name": "Karnataka"
+  },
+  {
+      "City ID": "203",
+      "City Name": "Mangalore",
+      "State ID": "2",
+      "State Name": "Karnataka"
+  },
+  {
+      "City ID": "204",
+      "City Name": "Udupi",
+      "State ID": "2",
+      "State Name": "Karnataka"
+  },
+  {
+      "City ID": "205",
+      "City Name": "Mandya",
+      "State ID": "2",
+      "State Name": "Karnataka"
+  },
+  {
+      "City ID": "301",
+      "City Name": "Cochi",
+      "State ID": "3",
+      "State Name": "Kerala"
+  },
+  {
+      "City ID": "302",
+      "City Name": "Kollam",
+      "State ID": "3",
+      "State Name": "Kerala"
+  },
+  {
+      "City ID": "303",
+      "City Name": "Kannur",
+      "State ID": "3",
+      "State Name": "Kerala"
+  },
+  {
+      "City ID": "304",
+      "City Name": "Thrissur",
+      "State ID": "3",
+      "State Name": "Kerala"
+  },
+  {
+      "City ID": "305",
+      "City Name": "Alappuzha",
+      "State ID": "3",
+      "State Name ": "Kerala"
+  }
+]
+
